@@ -118,7 +118,7 @@ class AyushGupta:
 | [**🏥 Medical DSS**](https://github.com/Ayushlion8/medical-dss) | 6-agent agentic pipeline for chest X-ray analysis — produces ranked ICD-10 differentials, PubMed-cited rationale, bounding box overlays, and PDF reports in ~10s | `Gemini` `TorchXRayVision` `ChromaDB` `FastAPI` `React` `Docker` | 🔴 Live |
 | [**🟢 FinRAG-Copilot**](https://github.com/Ayushlion8/FinRAG-Copilot) | Fintech RAG assistant that answers **only from trusted documents**, refuses to hallucinate, and cites every source — with multi-model quota fallback | `LangChain` `FAISS` `Gemini` `Streamlit` `HuggingFace` | ⭐ |
 | [**🍽️ Nugget RAG Chatbot**](https://github.com/Ayushlion8/nugget_rag_based_chatbot) | Domain-specific restaurant guide chatbot — scrapes & embeds 10k+ menu chunks, serves sub-1s grounded answers with source-aware citations | `FAISS` `Sentence Transformers` `Python` `Gradio` | |
-| [**🎓 AdaptIQ Learning**](https://github.com/Ayushlion8/AdaptIQ-Learning) | AI-powered adaptive quiz engine (Ed-Tech internship) — cut repeat mistakes by **42%**, boosted quiz generation speed by **65%**, hit **99.3% API uptime** | `Flask` `Gemini` `FAISS` `PostgreSQL` `Alembic` | 💼 E-Learning |
+| [**🎓 AdaptIQ Learning**](https://github.com/Ayushlion8/AdaptIQ-Learning) | AI-powered adaptive quiz engine (Ed-Tech) — cut repeat mistakes by **42%**, boosted quiz generation speed by **65%**, hit **99.3% API uptime** | `Flask` `Gemini` `FAISS` `PostgreSQL` `SQLAlchemy` `Alembic` | 💼 E-Learning |
 
 ### 🔐 Security & Systems
 
@@ -132,7 +132,6 @@ class AyushGupta:
 | 🏆 Project | 🧠 What It Does | 🔧 Stack | 🏅 |
 |---|---|---|---|
 | [**🤖 Wall Robot Planner**](https://github.com/Ayushlion8/wall-robot-planner) | Autonomous path planning system for wall-following robot navigation — implements motion planning algorithms for real-time obstacle-aware routing | `Python` `Robotics` `Path Planning` | |
-| [**📝 BYOL Quiz**](https://github.com/Ayushlion8/byol_quiz) | Bring-Your-Own-Learning quiz generator — NLP pipeline that extracts and generates MCQs from any structured document using semantic similarity | `Python` `NLP` `Sentence Transformers` | |
 
 </div>
 
