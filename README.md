@@ -5,7 +5,7 @@
 
 <!-- Animated typing headline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+systems+that+think+before+they+speak+%F0%9F%A7%A0;LLMs+%7C+RAG+%7C+Scalable+Backends+%7C+Vector+Search;Ex-Groww+%E2%80%A2+Research+%40+IIIT+Lucknow+%E2%80%A2+BYOL;Turning+complex+ideas+into+production-ready+systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+systems+that+think+before+they+speak+%F0%9F%A7%A0;LLMs+%7C+RAG+%7C+Scalable+Backends+%7C+Vector+Search;Ex-Groww+%E2%80%A2+Research+%40+IIIT+Lucknow+%E2%80%A2+BYOL+Academy;Turning+complex+ideas+into+production-ready+systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
