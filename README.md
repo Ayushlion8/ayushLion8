@@ -125,7 +125,7 @@ class AyushGupta:
 
 | 🏆 Project | 🧠 What It Does | 🔧 Stack | 🏅 |
 |---|---|---|---|
-| [**🗳️ E-VoteChain**](https://github.com/E-VateChain/Votechain_ML) | Biometric blockchain e-voting — dual-stage face matching with liveness detection + Gemini OCR on Indian ID documents to eliminate spoofing | `DeepFace` `Gemini` `Flask` `PostgreSQL` `MetaMask` | |
+| [**🗳️ E-VoteChain**](https://github.com/E-VoteChain/Votechain_ML) | Biometric blockchain e-voting — dual-stage face matching with liveness detection + Gemini OCR on Indian ID documents to eliminate spoofing | `DeepFace` `Gemini` `Flask` `PostgreSQL` `MetaMask` | |
 | [**👁️ Guardian Vision**](https://github.com/PavanaSakethaRam/Guardian-Vision) | Real-time violence & anomaly detection at **94.8% mAP@50** and **30 FPS** — custom YOLOv8 model with Roboflow-curated dataset and alert dashboard | `YOLOv8` `OpenCV` `Python` `NodeJS` | 🏆 Hackathon Runner-Up |
 
 ### 🛠️ Engineering & Tools
