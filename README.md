@@ -26,11 +26,13 @@
 class AyushGupta:
     role        = "Backend & AI Engineer"
     location    = "India 🇮🇳"
-    experience  = [ SDE @ Hevo Data, 
+    experience  = [
+                    SDE @ Hevo Data, 
                     SDE @ Groww, 
                     Generative AI Engineer @ VE-Lyra Labs,
                     Forward Deployed Engineer @ BYOL Academy,
-                    Research @ IIIT Lucknow]
+                    Research @ IIIT Lucknow
+                  ]
     
     superpower  = "Building AI systems that know what they don't know"
     
